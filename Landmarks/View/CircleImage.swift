@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct CircleImage: View {
+
     var body: some View {
         Image("turtlerock")
             .clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
