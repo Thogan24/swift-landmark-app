@@ -58,3 +58,4 @@ struct LandmarkDetail_Previews: PreviewProvider {
         LandmarkDetail(landmark: landmarks[0])
     }
 }
+
